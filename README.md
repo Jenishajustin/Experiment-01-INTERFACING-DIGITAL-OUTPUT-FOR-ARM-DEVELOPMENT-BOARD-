@@ -1,6 +1,8 @@
-# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
- 
-
+```
+JENISHA.J
+212222230056
+```
+# Experiment: 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
@@ -114,12 +116,12 @@ int main(void)
 
 ## Output  :
 ### Led is Off
- ![WhatsApp Image 2023-08-16 at 12 00 51](https://github.com/Jenishajustin/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119405070/fde643fd-2470-4def-90f0-7b5236814dac)
+ <img src="https://github.com/Jenishajustin/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119405070/fde643fd-2470-4def-90f0-7b5236814dac" width=450 height=475>
 
 <br>
 
  ### Led is on
- ![WhatsApp Image 2023-08-16 at 12 00 51](https://github.com/Jenishajustin/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119405070/3408092a-fda7-4c36-a30c-faad3b0094a3)
+ <img src="https://github.com/Jenishajustin/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119405070/3408092a-fda7-4c36-a30c-faad3b0094a3" width=450 height=475>
 
  <br>
  
